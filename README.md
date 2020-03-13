@@ -15,10 +15,13 @@ Contacts
 - Xorriso 
 - nasm 
 - gedit (optional)
+
 For Ubuntu Users: 
 - For the GRUB and Xorriso install, you'll need to add a repository first before installing. 
+
 Command: add-apt-repository ppa:eugenesan/ppa (With root access)
 Next Step: 
+
 Installing Both grub and Xorriso
 - sudo apt-get install xorriso
 - sudo apt-get install grub2-common:i386
