@@ -1,3 +1,5 @@
+This is an operating system based on NIDOS
+
 You can visit The Video tutorial Linked to this archive at https://www.youtube.com/watch?v=CGkmfBHEODE
 This Archive has been uploaded by Nidhal Abidi From IKOW
 Please visit Iknow @ www.youtube.com/iknowbrain
